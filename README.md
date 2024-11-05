@@ -1,4 +1,5 @@
-## 👋 Hi, I'm @Aaryash K
+## 👋 [![Aaryash](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 - 🚀  **Founder of [edXtra](https://edxtra.online/)** – helping students excel in their studies.
 - 💻  **Tech Enthusiast** – working on projects in tech, education, and 3D animation and modelling.
