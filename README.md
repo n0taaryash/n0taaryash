@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm @Aaryash K
 
-<!--
-**n0taaryash/n0taaryash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀  **Founder of [edXtra](https://edxtra.online/)** – helping students excel in their studies.
+💻  **Tech Enthusiast** – working on projects in tech, education, and 3D animation and modelling.
+🌱  **I’m currently learning** - Web-development, Python and Java Script.
+💬  **Ask me about**: JEE prep, educational resources, or anything tech-related!
 
-Here are some ideas to get you started:
+📫 **How to reach me** - khalkaraaryash@gmail.com
+😄 **Pronouns** - He/Him
+⚡ **Fun fact** - I’m a 16-year-old entrepreneur balancing JEE prep and building edXtra!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏  Always eager to learn and collaborate with like-minded people
+📷 Instagram: @n0taaryash
