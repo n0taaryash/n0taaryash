@@ -14,4 +14,4 @@
 
 🌏  Always eager to learn and collaborate with like-minded people
 
-📷 Instagram: @n0taaryash
+📷 Instagram: [@n0taaryash](https://www.instagram.com/n0taaryash/)
