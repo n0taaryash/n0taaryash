@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 
 ## 🌟 About Me
 - 🔭 Currently working on **edxtra.online**, our tech wing to revolutionize education and innovation.
-- 🎓 Creator of **NCERT Lite**, exclusive study material that helped me ace 90%+ in exams.
 - 💻 Passionate about **web development**, **3D animation**, and **problem-solving**.
 - 🤝 Collaborating with talented teammates to create engaging and user-friendly experiences.
 - 🌱 I’m currently learning - Web-development, Python and JavaScript.
@@ -42,8 +41,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 ---
 
 ## 📫 Let’s Connect!
-- **Email**: [contact@edxtra.online](mailto:aaryash@edxtra.online)
-- **Instagram**: [@edxtra.online](https://instagram.com/n0taaryash)
+- **Email**: [aaryash@edxtra.online](mailto:aaryash@edxtra.online)
+- **Instagram**: [@n0taaryash](https://instagram.com/n0taaryash)
 - **Linkedin**: [@AaryashK](https://www.linkedin.com/in/aaryash-khalkar-9a7169308/)
 
 ---
