@@ -1,24 +1,56 @@
-# 💫 About Me:
-## 👋 Hi, I'm @Aaryash-K<br><br>[![@Aaryash-K](https://readme-typing-svg.demolab.com/?lines=Founder+Of+edXtra;Web+Devloper;3D+Animator;Tech+Enthusiast)](https://git.io/typing-svg)<br><br><br>- 🚀  Founder of [edXtra](https://edxtra.online/) – helping students excel in their studies.<br>- 💻  Tech Enthusiast – working on projects in tech, education, and 3D animator.<br>- 🌱  I’m currently learning - Web-development, Python and Java Script.<br>- 💬  Ask me about - JEE prep, educational resources, or anything tech-related!<br><br>- 📫 How to reach me - khalkaraaryash@gmail.com<br>- 😄 Pronouns - He/Him<br>- ⚡ Fun fact - I’m a 16-year-old entrepreneur balancing JEE prep and building edXtra!<br><br>🌏  Always eager to learn and collaborate with like-minded people<br><br>📷 Instagram: [@n0taaryash](https://www.instagram.com/n0taaryash/)<br>
+# 👋 Hi, I'm Aaryash K!
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0taaryash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryash-khalkar-9a7169308) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reallyAaryash) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=n0taaryash&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=n0taaryash&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=n0taaryash&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=n0taaryash&theme=omni&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-founder of **edXtra**, an educational platform dedicated to empowering students with innovative study tools and resources.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=n0taaryash&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 About Me
+- 🔭 Currently working on **edXtra.tech**, our tech wing to revolutionize education and innovation.
+- 🎓 Creator of **NCERT Lite**, exclusive study material that helped me ace 90%+ in exams.
+- 💻 Passionate about **web development**, **3D animation**, and **problem-solving**.
+- 🤝 Collaborating with talented teammates to create engaging and user-friendly experiences.
+- 🌱 Constantly learning and experimenting with new technologies.
+
+---
+
+## 💼 My Role at edXtra
+- 🧩 Strategist: I specialize in finding solutions for every challenge, whether in studies or team management.
+- 🖥️ Developer: I work on UI/UX, enhance website functionality, and ensure a seamless user experience.
+- 🎯 Visionary: Committed to delivering innovative educational content and tools.
+
+---
+
+## 🔥 Projects
+- **[edXtra.online](https://edxtra.online)**: Our flagship website, featuring study materials and resources.
+- **Master Question Bank**: Comprehensive module for exam preparation.
+- **Map Games**: Interactive tools designed for geography exam readiness.
+- **3-Day Computer Applications Course**: Intensive preparation for Class 10th board exams.
+
+---
+
+## 🛠️ Tools & Technologies
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+## 📫 Let’s Connect!
+- **Email**: [contact@edxtra.online](mailto:contact@edxtra.online)
+- **Instagram**: [@edxtra.online](https://instagram.com/edxtra.online)
+- **WhatsApp**: [+91 95463 82098](https://wa.me/919546382098)
+- **GitHub**: [@AaryashK](https://github.com/AaryashK)
+
+---
+
+## 🎉 Fun Facts
+- I believe in learning through fun and engagement.
+- I’m deeply into **3D modeling and animation**.
+- Always up for a cup of chai and tech discussions!
+
+---
+
+⭐️ **Thanks for stopping by!** Don’t forget to check out my projects and feel free to contribute or reach out. Together, let’s make learning awesome!
