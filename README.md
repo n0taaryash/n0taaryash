@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Aaryash K!
+# 👋 Hi, I'm @Aaryash K!
 
 Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-founder of **edXtra**, an educational platform dedicated to empowering students with innovative study tools and resources.  
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **edXtra.tech**, our tech wing to revolutionize education and innovation.
+- 🔭 Currently working on **edxtra.online**, our tech wing to revolutionize education and innovation.
 - 🎓 Creator of **NCERT Lite**, exclusive study material that helped me ace 90%+ in exams.
 - 💻 Passionate about **web development**, **3D animation**, and **problem-solving**.
 - 🤝 Collaborating with talented teammates to create engaging and user-friendly experiences.
-- 🌱 Constantly learning and experimenting with new technologies.
+- 🌱 I’m currently learning - Web-development, Python and JavaScript.
 
 ---
 
@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 
 ## 🔥 Projects
 - **[edXtra.online](https://edxtra.online)**: Our flagship website, featuring study materials and resources.
-- **Master Question Bank**: Comprehensive module for exam preparation.
-- **Map Games**: Interactive tools designed for geography exam readiness.
-- **3-Day Computer Applications Course**: Intensive preparation for Class 10th board exams.
+- **WhatsApp Media Organizer**: A smart tool to declutter and manage your WhatsApp media files effortlessly.
+- **[shop.edxtra.online](https://shop.edxtra.online)**: Our dedicated store where students can purchase edXtra modules and study tools.
+- **Exclusive Study Materials**: From **NCERT Lite** to customized notes, tailored to help students ace their exams.
 
 ---
 
@@ -35,19 +35,21 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-FF6D00?logo=blender&logoColor=white)
+![AI](https://img.shields.io/badge/-AI_Bot_Training-3B5998?logo=artificial-intelligence&logoColor=white)
+![Graphic_Designing](https://img.shields.io/badge/-Graphic_Design-2D2D2D?logo=adobe-photoshop&logoColor=white)
 
 ---
 
 ## 📫 Let’s Connect!
-- **Email**: [contact@edxtra.online](mailto:contact@edxtra.online)
-- **Instagram**: [@edxtra.online](https://instagram.com/edxtra.online)
-- **WhatsApp**: [+91 95463 82098](https://wa.me/919546382098)
-- **GitHub**: [@AaryashK](https://github.com/AaryashK)
+- **Email**: [contact@edxtra.online](mailto:aaryash@edxtra.online)
+- **Instagram**: [@edxtra.online](https://instagram.com/n0taaryash)
+- **Linkedin**: [@AaryashK](https://www.linkedin.com/in/aaryash-khalkar-9a7169308/)
 
 ---
 
 ## 🎉 Fun Facts
-- I believe in learning through fun and engagement.
+- I’m a 16-year-old entrepreneur balancing JEE prep and building edXtra!
 - I’m deeply into **3D modeling and animation**.
 - Always up for a cup of chai and tech discussions!
 
