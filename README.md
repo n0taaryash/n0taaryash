@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 ---
 
 ## 🎉 Fun Facts
-- I’m a 16-year-old entrepreneur balancing JEE prep and building edXtra!
+- I’m a 17-year-old entrepreneur balancing JEE prep and building edXtra!
 - I’m deeply into **3D modeling and animation**.
 - Always up for a cup of chai and tech discussions!
 
