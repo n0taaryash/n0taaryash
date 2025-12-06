@@ -20,11 +20,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 ---
 
 ## 🔥 Projects
-- **[edXtra.online](https://edxtra.online)**: Our flagship website, featuring study materials and resources.
-- **WhatsApp Media Organizer**: A smart tool to declutter and manage your WhatsApp media files effortlessly.
-- **[shop.edxtra.online](https://shop.edxtra.online)**: Our dedicated store where students can purchase edXtra modules and study tools.
-- **Exclusive Study Materials**: From **NCERT Lite** to customized notes, tailored to help students ace their exams.
-
+- **[edXtra.in](https://edxtra.in)** – education branch of edXtra, with study tools, notes, and resources.
+- **[edXtraTech.com](https://edxtratech.com)** – the main tech hub where all your AI, automation, and development magic happens.
 ---
 
 ## 🛠️ Tools & Technologies
@@ -41,8 +38,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 ---
 
 ## 📫 Let’s Connect!
-- **Email**: [aaryash@edxtra.online](mailto:aaryash@edxtra.online)
-- **Instagram**: [@n0taaryash](https://instagram.com/n0taaryash)
+- **Email**: [aaryash@edxtra.tech](mailto:aaryash@edxtra.online)
+- **Instagram**: [@n0taaryash](https://instagram.com/thereal.aaryashh)
 - **Linkedin**: [@AaryashK](https://www.linkedin.com/in/aaryash-khalkar-9a7169308/)
 
 ---
